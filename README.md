@@ -11,6 +11,4 @@ After 5 years as a secondary school German teacher and pastoral lead, I have lov
 | [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev) Shell Script |  [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) Visual Studio Code  |
 
 
-- 😄 Pronouns: she/her
-
 
