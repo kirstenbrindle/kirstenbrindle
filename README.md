@@ -1,4 +1,4 @@
-**About me**
+<h3> About me:</h3>
 
 👋 Hi, I'm Kirsten.
 After 5 years as a secondary school German teacher and pastoral lead, I have loved using my linguistic, communication and problem solving skills to delve into the tech world on the Northcoders Data Engineering bootcamp. Having finished in March 2024, I am currently looking for a role as a data engineer based in Manchester.
@@ -19,3 +19,6 @@ After 5 years as a secondary school German teacher and pastoral lead, I have lov
 <a target="_blank"><img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/></a>
 <a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/></a>   
 </p>
+
+<h3> Projects:</h3>
+Please see my final bootcamp group project below (**de-totes-**)
