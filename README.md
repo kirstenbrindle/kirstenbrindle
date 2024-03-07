@@ -21,4 +21,10 @@ After 5 years as a secondary school German teacher and pastoral lead, I have lov
 </p>
 
 <h3> Projects:</h3>
-Please see my final bootcamp group project below (**de-totes-**)
+<h4>de-totes-project</h4>
+My Northcoders Data Engineering final group project - three AWS Lambda functions handling extraction, transformation and loading tasks from a database to a data warehouse. 
+
+  - Lambda functions and required utility functions written in Python, using Test-Driven Development
+  - PSQL used to extract and load from the database and to the data warehouse
+  - Infrastructure as Code approach, using Terraform to create AWS resources
+  - Continuous Integration/Continuous Deployment using GitHub Actions
