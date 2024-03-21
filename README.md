@@ -28,3 +28,10 @@ My Northcoders Data Engineering final group project - three AWS Lambda functions
   - PSQL used to extract and load from the database and to the data warehouse
   - Infrastructure as Code approach, using Terraform to create AWS resources
   - Continuous Integration/Continuous Deployment using GitHub Actions
+
+<h4>aws-python-password-manager</h4>
+This AWS-powered password manager is a command-line application written using Python to store and retrieve passwords.
+
+  - Connects to AWS Secrets Manager using boto3
+  - Secrets can be created, retrieved, listed and deleted
+  - Error handling and recursion ensure that the initial prompt is repeated if the user inputs an invalid character
