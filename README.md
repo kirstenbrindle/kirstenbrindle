@@ -1,7 +1,7 @@
 <h3> About me:</h3>
 
 👋 Hi, I'm Kirsten.
-After 5 years as a secondary school German teacher and pastoral lead, I have loved using my linguistic, communication and problem solving skills to delve into the tech world on the Northcoders Data Engineering bootcamp. Having finished in March 2024, I am currently looking for a role as a data engineer based in Manchester.
+After 5 years as a secondary school German teacher and pastoral lead, I have loved using my linguistic, communication and problem solving skills to delve into the tech world on the Northcoders Data Engineering bootcamp and am now working for BibliU as a Platform Engineer.
 
 <h3> Languages:</h3>
 <p>
